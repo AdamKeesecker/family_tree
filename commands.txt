@@ -1,0 +1,6 @@
+
+[A]dd family member
+[R]emove family member
+[C]onnect member relationship
+[D]elete member relationship
+[V]iew tree
